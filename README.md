@@ -1,2 +1,11 @@
-# purple-team-soc-lab
-Purple Team SOC Lab: Real-world attack simulations with Splunk SIEM, Kali Linux, and Windows endpoint detection
+# SOC Lab Projesi
+
+Splunk + Kali + Windows ile SOC lab çalışması
+
+## Yapılanlar
+- [ ] Network kurulumu
+- [ ] Splunk kurulumu  
+- [ ] RDP brute force
+- [ ] Port scanning
+
+
